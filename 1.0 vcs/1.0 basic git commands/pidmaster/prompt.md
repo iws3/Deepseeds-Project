@@ -46,19 +46,7 @@
 
 ## 🎯 About Me
 
-```javascript
-const [YOUR_GITHUB_USERNAME] = {
-    location: "[YOUR_CITY, COUNTRY]",
-    company: "[YOUR_WORKPLACE/SCHOOL]",
-    role: "[YOUR_JOB_TITLE/STUDENT_STATUS]",
-    bio: "[2-3 SENTENCE DESCRIPTION OF YOURSELF]",
-    funFact: "[INTERESTING_PERSONAL_FACT]",
-    currentlyLearning: ["[WHAT_YOU'RE_CURRENTLY_LEARNING]"],
-    openToCollaborateOn: ["[TYPES_OF_PROJECTS]"],
-    askMeAbout: ["[YOUR_EXPERTISE_AREAS]"],
-    hobbies: ["[PERSONAL_INTERESTS]"]
-};
-```
+#write more about me, using my info______________
 
 ###
 
