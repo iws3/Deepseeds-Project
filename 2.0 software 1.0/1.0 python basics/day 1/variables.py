@@ -45,6 +45,15 @@
 # # A ban name generator
 # name, age, fav_meal, school, department, best_freind  
 
-name=input("What is your name? ")
-print(f"My name is {name}")
+# name=input("What is your name? ")
+# print(f"My name is {name}")
+# degrees cel-fh
+temp_in_celsius=input("Enter temperature in deg celsius ")
+converted_temp=float(temp_in_celsius)
+# converted_temp=int(temp_in_celsius)
+
+# ->"54"->54
+
+results=(converted_temp * 9/5) + 32;
+print(f"My results: {results}")
 
