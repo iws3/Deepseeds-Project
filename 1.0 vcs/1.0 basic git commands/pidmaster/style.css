@@ -1,0 +1,26 @@
+
+body {
+    align-items: center;
+}
+.container {
+    background: linear-gradient(lightpink, lightblue);
+    height: 500px;
+    width: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Monotype Corsiva';
+    font-size: 21.5px;
+}
+.pic {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
